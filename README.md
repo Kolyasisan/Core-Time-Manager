@@ -1,4 +1,7 @@
 # Core-Time-Manager
+
+Obsolete since Unity 2020.2 finally includes much needed Delta Time fixes
+
 A custom Time Manager for Unity that has some neat little features.
 
 NOTE: Requires Core Update Manager to work (https://github.com/Kolyasisan/Core-Update-Manager)
